@@ -59,6 +59,5 @@ Combine these keys to move smoothly and avoid obstacles.
 ```bash
 make && ./game
 
-<img width="689" height="460" alt="Screenshot 2025-10-19 at 11 25 02 PM" src="https://github.com/user-attachments/assets/ff8346fe-3232-4172-8df7-55fa36443201" />
 
 
