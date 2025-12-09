@@ -1,14 +1,13 @@
 
-NB: 
-MSYS2 MinGW UCRT as the build and run-time environment
-raylib for graphics(assuming the raylib package is already installed and user is running Windows)
-
 # 2D Platformer Game
 
 A simple 2D platformer built using **C++** and **raylib**.  
 Your goal is to navigate through platforms, avoid projectiles, and reach the far-right side of the screen to win.
 
 ---
+##NB: 
+MSYS2 MinGW UCRT needed as the build and run-time environment
+raylib for graphics(assuming user already have the raylib package on his Windows machine.)
 
 ## 🎮 How to Play
 
